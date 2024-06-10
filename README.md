@@ -1,4 +1,4 @@
-# Biman Libraries
+# Biman Assemblies
 
 Note that it is not stable until v1.0
 
